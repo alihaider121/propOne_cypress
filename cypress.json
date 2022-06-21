@@ -1,0 +1,14 @@
+{
+    
+    "baseUrl": "https://staging-zd.propone.pk/admin",
+    "env":{
+"email": "admin@zd.com",
+    "password": "propone@zeedee"
+    },
+    
+  "viewportWidth": 1050,
+  "viewportHeight": 660
+
+    
+   
+}
